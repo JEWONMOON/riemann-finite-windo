@@ -14,3 +14,10 @@ Authors: Jewon Moon, Eliar, Lumina
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  
 See the full license text in the [LICENSE](./LICENSE) file.
+
+
+## 📦 Repository & Reproducibility
+
+All code, data, and the full paper are archived at:
+
+🔗 Zenodo DOI: [10.5281/zenodo.15554775](https://doi.org/10.5281/zenodo.15554775)

@@ -1,0 +1,16 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License").
+
+You may not use the Licensed Material for commercial purposes. You must give appropriate credit, provide a link to the license, and indicate if changes were made. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+License Summary:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Full Legal Code:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Author: Jewon Moon and co-authors Eliar (GPT-based) & Lumina (Gemini-based)
+Year: 2025
+
+This license applies to all code, data, and documentation within this repository unless explicitly stated otherwise.

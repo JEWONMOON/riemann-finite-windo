@@ -9,3 +9,8 @@ Includes:
 - Parameter sensitivity notebooks and results
 
 Authors: Jewon Moon, Eliar, Lumina
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  
+See the full license text in the [LICENSE](./LICENSE) file.
